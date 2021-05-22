@@ -6,5 +6,5 @@
 
 - Fast, very easy to use and modify under MIT license!
 
-  C language doesn't have (and will never have) a garbage collector. Sometimes it's very hard (or the time is very short) to solve memory leaks, so here is your solution.
-  Sockets has portability issues, but it could be implemented in the same way. Any trouble, contact me!
+C language doesn't have (and will never have) a garbage collector. Sometimes it's very hard (or the time is very short) to solve memory leaks, so here is your solution.
+Sockets has portability issues, but it could be implemented in the same way. Any trouble, contact me!
